@@ -29,6 +29,12 @@ you already own:
 Both directions are implemented and verified working end-to-end on real hardware (a Mac, an
 iPad, and a Samsung Galaxy Z Fold 6) — not just "builds clean."
 
+<p align="center">
+  <img src="docs/screenshots/android-pairing.png" alt="Android pairing screen" width="260">
+  <img src="docs/screenshots/android-notification.png" alt="File received notification on Android" width="260">
+  <img src="docs/screenshots/mac-notification.png" alt="File sent notification on macOS" width="340">
+</p>
+
 ## What's in here
 
 - **`macos-agent/`** — a Swift Package Manager menu-bar app. Watches `~/Downloads` for new
