@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AirBridge</string>
+    <string name="send_via_mac">Send via Mac</string>
+</resources>
